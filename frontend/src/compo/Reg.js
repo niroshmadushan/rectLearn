@@ -1,4 +1,4 @@
-import './form.css';
+import './compo.css';
 import {NavLink} from "react-router-dom";
 
 function Reg(){
@@ -18,7 +18,7 @@ function Reg(){
             <input type='Password' placeholder='Password'></input><br/>
             <input type='Password' placeholder='Re-Type Password'></input><br/>
             
-            <button>Login</button><br/>
+            <button>Register</button><br/>
             
         
                    
